@@ -22,3 +22,4 @@ The DynamicCardHover effect is an interactive and visually appealing feature des
     </li>
 </ul>
  
+![effects](https://github.com/diGiusepp3/DynamicCardHover/assets/107040873/d75b2df1-8c43-4f31-9edd-61d9856dd0e9)
