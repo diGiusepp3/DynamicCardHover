@@ -11,7 +11,13 @@ The DynamicCardHover effect is an interactive and visually appealing feature des
 # How to Use:
 
 <li>
+    Include the Styles: Add the provided SCSS file to your project.
+</li>
+
+<li>
     Include the Script: Add the provided JavaScript script to your project.
 </li>
+<li>
     Initiate the Effect: The effect is automatically applied to designated cards on the page.
     Customize: Tailor the effect's appearance and behavior to suit your design preferences.
+</li>
