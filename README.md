@@ -21,3 +21,4 @@ The DynamicCardHover effect is an interactive and visually appealing feature des
         Customize: Tailor the effect's appearance and behavior to suit your design preferences.
     </li>
 </ul>
+ 
